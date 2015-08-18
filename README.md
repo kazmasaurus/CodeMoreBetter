@@ -9,4 +9,4 @@ Maybe these should go into Pinboard or something.
 
 
 ### Debugging
--[Autolayout Breakpoints](http://nshint.io/blog/2015/08/17/autolayout-breakpoints/): Useful for finding or checking for ambiguous layouts.
+- [Autolayout Breakpoints](http://nshint.io/blog/2015/08/17/autolayout-breakpoints/): Useful for finding or checking for ambiguous layouts.
